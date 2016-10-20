@@ -22,6 +22,4 @@ builds:
     version: 1.3.10
   d5a5358d-af2a-43b2-8d38-b1727cdda9dd:
     version: 1.3.11
-  28079dde-ee19-468d-b2c3-34da1e17362f:
-    version: 1.3.12
 format-version: '2'
