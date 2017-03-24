@@ -12,4 +12,6 @@ builds:
     version: 1.3.17
   890fac99-defc-4244-88c2-b315bfca3bd4:
     version: 1.3.18
+  f49ab7c5-7db7-45f1-98a0-060ff1c5bab5:
+    version: 1.4.0
 format-version: '2'
