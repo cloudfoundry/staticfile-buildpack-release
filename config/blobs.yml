@@ -1,5 +1,5 @@
 ---
-staticfile-buildpack/staticfile_buildpack-cached-v1.3.18.zip:
-  object_id: 01eacd70-1527-421b-b0dd-c86968f65fee
-  sha: 6bcc874f710f823fbf486b5a2626f6287374ce96
-  size: 2738644
+staticfile-buildpack/staticfile_buildpack-cached-v1.4.0.zip:
+  object_id: f148baf8-f370-4112-b89c-2debf43ea88a
+  sha: ba3f8e3522ec4033db405599e4ba9a253cbb3005
+  size: 6505284
