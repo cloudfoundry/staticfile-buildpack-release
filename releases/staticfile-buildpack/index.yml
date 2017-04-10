@@ -16,4 +16,6 @@ builds:
     version: 1.4.0
   fab19ec3-65b0-4f9a-81b2-b77a56bd207f:
     version: 1.4.2
+  0b95875b-51f2-4342-be96-5ac1cdc34c08:
+    version: 1.4.4
 format-version: '2'
