@@ -28,4 +28,6 @@ builds:
     version: 1.4.10
   95ed4edb-de97-4fda-9084-eb894b53f16f:
     version: 1.4.11
+  8796e729-0077-48fd-a615-7d2367ff2900:
+    version: 1.4.12
 format-version: '2'
