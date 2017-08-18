@@ -1,5 +1,5 @@
 ---
-staticfile-buildpack/staticfile-buildpack-v1.4.12.zip:
-  object_id: db0340ce-39de-44e7-9fda-b333418704c2
-  sha: f6c25479b74d1e088c72470b4b99c14074e90de5
-  size: 5399600
+staticfile-buildpack/staticfile-buildpack-v1.4.13.zip:
+  object_id: 9cb3c29e-362c-48e1-84c8-b1aea44a8ba5
+  sha: f9977b5efe405f28cb83436137128db2dc8ab31e
+  size: 4072783
