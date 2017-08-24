@@ -32,4 +32,6 @@ builds:
     version: 1.4.12
   331794c9-2805-49ac-b5ee-92020c2e4365:
     version: 1.4.13
+  1c1cc8b0-e684-462d-800a-0e2fc499d83b:
+    version: 1.4.14
 format-version: '2'
