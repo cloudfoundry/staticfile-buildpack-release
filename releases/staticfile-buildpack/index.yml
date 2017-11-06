@@ -38,4 +38,6 @@ builds:
     version: 1.4.15
   aa1854e1-0145-4195-aef2-9a4c8781af2b:
     version: 1.4.16
+  ed7b8592-5d0e-4c1b-a3e0-276669a948fe:
+    version: 1.4.18
 format-version: '2'
