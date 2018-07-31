@@ -1,0 +1,4 @@
+---
+name: staticfile-buildpack-cflinuxfs2
+files:
+- staticfile-buildpack/staticfile?buildpack-cflinuxfs2-v*.zip
