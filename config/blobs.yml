@@ -1,8 +1,8 @@
-staticfile-buildpack/staticfile_buildpack-cflinuxfs2-v1.4.39.zip:
-  size: 5264629
-  object_id: c7340f24-23db-466c-47f1-787126e68d6b
-  sha: 70a35a7c136850d1d7cc985326fbc00d34145a43
-staticfile-buildpack/staticfile_buildpack-cflinuxfs3-v1.4.39.zip:
-  size: 5264632
-  object_id: c8374fe7-682f-4344-66ce-6a2026ece5e7
-  sha: e5d268d9a70c6170eb4d942c3e8f55e253f8543f
+staticfile-buildpack/staticfile_buildpack-cflinuxfs2-v1.4.40.zip:
+  size: 5265346
+  object_id: 3c50d8ed-0982-4347-53f9-ab413120311a
+  sha: 42602fe939e33cbc158ba0f5a119604a7213a059
+staticfile-buildpack/staticfile_buildpack-cflinuxfs3-v1.4.40.zip:
+  size: 5265347
+  object_id: 4312544f-501a-4b36-4620-ddbc921f0451
+  sha: 77dbcf7896da34f7168f198ebdfd7962ce9753de
