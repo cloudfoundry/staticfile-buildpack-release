@@ -91,6 +91,8 @@ builds:
     version: 1.4.6
   f49ab7c5-7db7-45f1-98a0-060ff1c5bab5:
     version: 1.4.0
+  f4ab6c9c-afe0-4bdf-5d66-a394d261b3d8:
+    version: 1.5.11
   fab19ec3-65b0-4f9a-81b2-b77a56bd207f:
     version: 1.4.2
 format-version: "2"
