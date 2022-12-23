@@ -1,0 +1,21 @@
+name: staticfile-buildpack
+version: 1.5.36
+commit_hash: 1f18cab
+uncommitted_changes: false
+jobs:
+- name: staticfile-buildpack
+  version: 262d6c341910b823b977acd277c26bf8bba5e7e65973c6d175b6a9505ade23f0
+  fingerprint: 262d6c341910b823b977acd277c26bf8bba5e7e65973c6d175b6a9505ade23f0
+  sha1: sha256:ad71781c134b7fbf64ce57b45f177164a4a05bfddf503275443bc49a2d0c312d
+  packages:
+  - staticfile-buildpack-cflinuxfs3
+packages:
+- name: staticfile-buildpack-cflinuxfs3
+  version: 985588c0e0914e69fb0ce42dbcd17fca7a2a66b6a5d66a61283255bab9258fa4
+  fingerprint: 985588c0e0914e69fb0ce42dbcd17fca7a2a66b6a5d66a61283255bab9258fa4
+  sha1: sha256:c0e3d1cf76f057aa316ffa0582ff3a5ce55d0f75da1fc3256382a1ecdd6e9ed0
+  dependencies: []
+license:
+  version: 415e3b1a4415a14628e5fe1b59d90fec3c8124387c07b8d3298eaf09958360b9
+  fingerprint: 415e3b1a4415a14628e5fe1b59d90fec3c8124387c07b8d3298eaf09958360b9
+  sha1: sha256:a8cd5e5cd2bfe137dd7ad5645909ea11ad55e8db9bf8c09cc3fcd7f043745342
