@@ -147,4 +147,6 @@ builds:
     version: 1.5.11
   fab19ec3-65b0-4f9a-81b2-b77a56bd207f:
     version: 1.4.2
+  fea2a9c1-51e4-49b9-51b0-37bcbf16d5dc:
+    version: 1.5.39
 format-version: "2"
