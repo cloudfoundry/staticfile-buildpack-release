@@ -4,5 +4,6 @@ templates: {}
 
 packages:
 - staticfile-buildpack-cflinuxfs3
+- staticfile-buildpack-cflinuxfs4
 
 properties: {}

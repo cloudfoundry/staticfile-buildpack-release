@@ -1,0 +1,4 @@
+---
+name: staticfile-buildpack-cflinuxfs4
+files:
+- staticfile-buildpack/staticfile?buildpack-cflinuxfs4-v*.zip
