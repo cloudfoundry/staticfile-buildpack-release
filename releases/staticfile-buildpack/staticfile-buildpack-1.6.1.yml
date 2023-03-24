@@ -1,0 +1,27 @@
+name: staticfile-buildpack
+version: 1.6.1
+commit_hash: fda8101
+uncommitted_changes: false
+jobs:
+- name: staticfile-buildpack
+  version: 8cee3a5de63b6c488b703797ce74460f7f0841c1485a5a7992d0894a6dae64ed
+  fingerprint: 8cee3a5de63b6c488b703797ce74460f7f0841c1485a5a7992d0894a6dae64ed
+  sha1: sha256:917c6c31bfff87fec2baf5cb46c2b4bda42a96ae538eb37f82305229a3160b06
+  packages:
+  - staticfile-buildpack-cflinuxfs3
+  - staticfile-buildpack-cflinuxfs4
+packages:
+- name: staticfile-buildpack-cflinuxfs3
+  version: ef48f694db011dfc261e625ed5e131dc645354567a683df514d0a79caddbb5f1
+  fingerprint: ef48f694db011dfc261e625ed5e131dc645354567a683df514d0a79caddbb5f1
+  sha1: sha256:6df4d9ac835c0aa51cfbb4efeba1c4d0e13a28889743780deeb88baf09f0986f
+  dependencies: []
+- name: staticfile-buildpack-cflinuxfs4
+  version: 31267771bd51fe4708209c4393562533c5360d04db0b0333f9f4778384f3ba3f
+  fingerprint: 31267771bd51fe4708209c4393562533c5360d04db0b0333f9f4778384f3ba3f
+  sha1: sha256:2c4c5f4de049f569e62860e81c3930ced0b2ecb77a9ad6238a918fad312f6974
+  dependencies: []
+license:
+  version: 415e3b1a4415a14628e5fe1b59d90fec3c8124387c07b8d3298eaf09958360b9
+  fingerprint: 415e3b1a4415a14628e5fe1b59d90fec3c8124387c07b8d3298eaf09958360b9
+  sha1: sha256:a8cd5e5cd2bfe137dd7ad5645909ea11ad55e8db9bf8c09cc3fcd7f043745342
