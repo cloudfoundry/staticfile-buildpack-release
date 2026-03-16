@@ -4,3 +4,4 @@ blobstore:
   provider: s3
   options:
     bucket_name: buildpacks.cloudfoundry.org
+    folder_name: staticfile-buildpack
