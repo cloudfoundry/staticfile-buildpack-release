@@ -3,6 +3,7 @@ name: staticfile-buildpack
 templates: {}
 
 packages:
+- staticfile-buildpack-cflinuxfs5
 - staticfile-buildpack-cflinuxfs4
 
 properties: {}
