@@ -1,4 +1,4 @@
 ---
-  name: staticfile-buildpack-cflinuxfs5
-  files:
-  - staticfile-buildpack/staticfile?buildpack-cflinuxfs5-*.zip
+name: staticfile-buildpack-cflinuxfs5
+files:
+- staticfile-buildpack/staticfile?buildpack-cflinuxfs5-*.zip
